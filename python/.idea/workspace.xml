@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Count Primes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Count Primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Count Primes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3716216">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="35" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Remove Linked List Elements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Remove Linked List Elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6081081">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -47,6 +57,7 @@
         <option value="$PROJECT_DIR$/Count and Say.py" />
         <option value="$PROJECT_DIR$/Isomorphic Strings.py" />
         <option value="$PROJECT_DIR$/Count Primes.py" />
+        <option value="$PROJECT_DIR$/Remove Linked List Elements.py" />
       </list>
     </option>
   </component>
@@ -339,8 +350,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Count Primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3716216">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove Linked List Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6081081">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>
